@@ -5,3 +5,4 @@ def cul(x,y):
 cul(4,2)
 cul(2,4)
 cul(3,4)
+cul(1,3) #例子
