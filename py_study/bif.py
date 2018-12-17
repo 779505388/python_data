@@ -1,8 +1,14 @@
 """python内置函数的学习"""
-def cul(x,y):
-    return x**y
+class Rectangle:
+    def __init__(self,x,y):
+        self.x=x
+        self.y=y
+    def get_peri(self):
+        '''计算周长'''
+        return 2*(self.x+self.y)
+    def get_area(self):
+        '''计算面积'''
+        return self.x*self.y
 
-cul(4,2)
-cul(2,4)
-cul(3,4)
-cul(1,3) #例子
+exa=Rectangle(3,4)
+print(exa.get_area())
