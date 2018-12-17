@@ -1,14 +1,11 @@
-"""python内置函数的学习"""
-class Rectangle:
-    def __init__(self,x,y):
-        self.x=x
-        self.y=y
-    def get_peri(self):
-        '''计算周长'''
-        return 2*(self.x+self.y)
-    def get_area(self):
-        '''计算面积'''
-        return self.x*self.y
+"""__new__()方法学习"""
 
-exa=Rectangle(3,4)
-print(exa.get_area())
+
+class CapStr(str):
+    def __new__(cls, string):
+        string = string.upper()
+        return str.__new__(cls, string)
+
+
+a = CapStr('i love you')
+print(a)
