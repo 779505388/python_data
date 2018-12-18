@@ -1,11 +1,13 @@
-"""__new__()方法学习"""
+"""__del__()方法"""
 
 
-class CapStr(str):
-    def __new__(cls, string):
-        string = string.upper()
-        return str.__new__(cls, string)
+class C():
+    '''创建一个类'''
+    def __init__(self):
+        print('调用__init__()方法中……')
 
+    def __del__(self):
+        """del方法在删除所有标签指向后才启动"""
+        print('调用__del__()方法中……')
 
-a = CapStr('i love you')
-print(a)
+a1=C()
