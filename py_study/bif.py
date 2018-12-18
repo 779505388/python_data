@@ -1,11 +1,10 @@
-"""__new__()方法学习"""
+class New_int(int):
+    """继承并更改int()"""
+    def __add__(self,value):
+        return int(self)-int(value)
+    def __sub__(self,value):
+        return int.__add__(self,value)
 
-
-class CapStr(str):
-    def __new__(cls, string):
-        string = string.upper()
-        return str.__new__(cls, string)
-
-
-a = CapStr('i love you')
-print(a)
+a=New_int(7)
+b=New_int(5)
+print(a+b)
