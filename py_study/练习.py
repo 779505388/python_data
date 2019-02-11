@@ -1,23 +1,23 @@
-'''回文数判断'''
-mun =''
-while type(mun) != type(123):
+import tkinter
+import requests
+from lxml import etree
+def get_html(ip='197.25.55.11'):
+    url='https://ip.cn/index.php?ip=%s' % ip
+    html=requests.get(url)
+    page=etree.HTML(html.text)
+    data=page.xpath('/html/body/div/div[4]/div/p[2]/code/text()')
+    print(data)
+tk = tkinter.Tk()
+tk.title('IP地址查询')
+ip_input=tkinter.Entry(tk,width=50)
 
-    try:
-        mun=eval(input('请随机输入一个数：'))
-    except:
-
-        print('请输入一个数！！！')
-
+display_info = tkinter.Listbox(tk,width=50,height=10)
+result_button= tkinter.Button(tk,text='查询',command=get_html )
+if __name__ == "__main__":
     
-mun = str(mun)
-sj = ''
-a=99999
-a=len(mun)
-while a >=1:
-    a -=1
-    sj = sj +mun[a]
-    
-if mun == sj:
-    print('输入的数为回文数')
-else:
-    print('输入的不是回文数')
+    ip_input.pack()
+    display_info.pack()
+    result_button.pack()
+
+
+    tk.mainloop()

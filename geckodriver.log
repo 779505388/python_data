@@ -860,3 +860,1044 @@ JavaScript warning: http://www.it0066.com/source/plugin/nimba_kefu/static/jquery
 C
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1548052056088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.vrpbNH4AxI0K"
+1548052058675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548052058675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548052061783	Marionette	INFO	Listening on port 56311
+1548052062123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.it0066.com/source/plugin/nimba_kefu/static/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.it0066.com/source/plugin/nimba_kefu/static/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4400[Parent 12168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9316, Ch1548052128913	Marionette	INFO	Stopped listening on port 56311
+[GPU 6756, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548052190900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.P9TkAQRHvz7y"
+1548052191484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548052191484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548052192786	Marionette	INFO	Listening on port 56533
+1548052193026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.it0066.com/source/plugin/nimba_kefu/static/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.it0066.com/source/plugin/nimba_kefu/static/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15924, Chrome_ChildThread] WARNING: [Child 3532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3532, Ch[Parent 14556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1548052252393	Marionette	INFO	Stopped listening on port 56533
+[GPU 13552, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1549710419678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.3FgvYFHSMIWT"
+1549710420433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549710420433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: k1549710422521	Marionette	INFO	Listening on port 63002
+1549710422995	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 22244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z[Child 20488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch[Parent 22244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1549710432536	Marionette	INFO	Stopped listening on port 63002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 22884, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nown incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+1549710485442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.HZiKAPDlB0j4"
+1549710486082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549710486082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7244): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpn1549710487709	Marionette	INFO	Listening on port 63215
+1549710488165	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16788, Chrome[Parent 7244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5140, Chrome_Child1549710700768	Marionette	INFO	Stopped listening on port 63215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+1549710761254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.YhcFPrSJKAfj"
+1549710761923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549710761923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:14340): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: k1549710763617	Marionette	INFO	Listening on port 63930
+1549710763977	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11252, Chrome_ChildThread] WARNING: pipe [Parent 14340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1549710789864	Marionette	INFO	Stopped listening on port 63930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 23548, Chrome_ChildThread] WARNING: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nown incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+1549710875067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.NErVfVvAFSF0"
+1549710875687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549710875687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:22316): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: k1549710877365	Marionette	INFO	Listening on port 64223
+1549710877784	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 22316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 22316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11972, Chrome_ChildThre[Parent 22316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7992, Chrome_ChildThread] WARNING: pipe er1549712008437	Marionette	INFO	Stopped listening on port 64223
+nown incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+sertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:21116): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: k1549712006628	Marionette	INFO	Listening on port 49830
+1549712006729	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20708, Chrome_ChildThread] WARNING: pipe error: 1[Parent 21116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15280, Chrome_ChildThread] WARconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 21116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[iChilld 1d 1356, Chrome_Chi2ldT716, hCreahrome_Cd] WAhildTRhNING: pread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12716, ChrCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:15976): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: k1549714584679	Marionette	INFO	Listening on port 54088
+1549714585064	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 15976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21372, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 21372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2261[Chi2, Cld 2h1372, Chrome_Chirome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2261[Parent 15976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20940, Chrome_ChildThread] WARNING: pipe e1549717328058	Marionette	INFO	Stopped listening on port 54088
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20660, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nown incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+ g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:19632): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: k1549714637494	Marionette	INFO	Listening on port 54264
+1549714637873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://luna.58.com/show/ads?n=b-33276477696777-ps-f-anjukepc&c=xinfanglunbo, line 8: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 19632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12888, Chrome_ChildThread] WARNING: pipe [Child 7968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chan[Parent 19632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1549717330659	Marionette	INFO	Stopped listening on port 54264
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nown incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+1549718473463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.Hxu2TnqkC45K"
+1549718473848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549718473849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:4220): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpn1549718475420	Marionette	INFO	Listening on port 61219
+1549718475581	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14240, Chrome_ChildThread] WARN1549718495400	Marionette	INFO	Stopped listening on port 61219
+[GPU 11816, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+1549718604990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.YUC5b9oCJube"
+1549718605388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549718605388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:20180): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: k1549718606947	Marionette	INFO	Listening on port 61532
+1549718607104	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Child 20616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20616, [Parent 20180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20392, Chrom1549718670619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofile.G6LuIM2iBQZM"
+1549718671239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549718671239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (firefox.exe:7944): CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpn1549718673156	Marionette	INFO	Listening on port 61737
+1549718673385	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15112[, ChParent 7944, Gecko_IOromThree_ChildThrad]ead] W WAARNRNINGING: p: pipeipe er error: ror109: 1: f09:ile fi z:le z:/build/build/bui/srld/c/ipc/chromium/src/chbuild/src/ipc/crome/comhromonmiu/ipm/sc_crc/hanchrnelome_win.cc, li/common/ne ipc332_ch
+annel_win.cc, line 332
+[Child 15112, Chrom[Child 11972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11972, Chrome_ChildThread] WARNI[Parent 7944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 460, Chrome1549718841778	Marionette	INFO	Stopped listening on port 61737
+[GPU 18344, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
