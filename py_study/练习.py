@@ -1,23 +1,29 @@
-import tkinter
-import requests
-from lxml import etree
-def get_html(ip='197.25.55.11'):
-    url='https://ip.cn/index.php?ip=%s' % ip
-    html=requests.get(url)
-    page=etree.HTML(html.text)
-    data=page.xpath('/html/body/div/div[4]/div/p[2]/code/text()')
-    print(data)
-tk = tkinter.Tk()
-tk.title('IP地址查询')
-ip_input=tkinter.Entry(tk,width=50)
-
-display_info = tkinter.Listbox(tk,width=50,height=10)
-result_button= tkinter.Button(tk,text='查询',command=get_html )
-if __name__ == "__main__":
+import time
+def coreLoop():
+    limit = 10**8
+    while limit>0:
+        limit-= 1
+def otherLoop1():
+    time.sleep(0.2)
+def otherLoop2():
+    time.sleep(0.4)
     
-    ip_input.pack()
-    display_info.pack()
-    result_button.pack()
-
-
-    tk.mainloop()
+def main():
+    start_time =time.localtime()
+    print('程序开始时间：',time.strftime('%Y-%m-%d %H:%M:%S',start_time))
+    start_perf_count = time.perf_counter()
+    otherLoop1()
+    otherLoop1_pref_count=time.perf_counter()
+    otherLoop1_pref= otherLoop1_pref_count-start_perf_count
+    coreLoop()
+    coreLoop_preef_count=time.perf_counter()
+    coreLoop_pref=coreLoop_preef_count-otherLoop1_pref_count
+    otherLoop2()
+    otherLoop2_pref_count=time.perf_counter()
+    otherLoop2_pref= otherLoop2_pref_count -coreLoop_preef_count
+    end_pref_count=time.perf_counter()
+    end_pref =end_pref_count-start_perf_count
+    end_time=time.localtime()
+    print(otherLoop1_pref,otherLoop2_pref,coreLoop_pref,end_pref)
+    print('程序结束时间：',time.strftime('%Y-%m-%d %H:%M:%S',end_time))
+main()
