@@ -1,12 +1,13 @@
 """GUI"""
 import tkinter as tk
-master = tk.Tk()
-theLB= tk.Listbox(master,selectmode= 'extended',height =11)
-theLB.pack()
-for item in range(11):
-    theLB.insert('end',item)
+root = tk.Tk()
+sb =tk.Scrollbar()
+sb.pack(side ='right',fill='y')
+lb = tk.Listbox(root,yscrollcommand=sb.set)
+lb.pack()
+for i in range(100):
+    lb.insert('end',i)
 
-theButton = tk.Button(master,text= 'delete',\
-    command = lambda x= theLB:x.delete('active'))
-theButton.pack()
+lb.pack(side = 'left',fill='both')
+sb.config(command = lb.yview)
 tk.mainloop()
